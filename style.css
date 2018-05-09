@@ -1,0 +1,48 @@
+body {
+  background-color: #818181;
+  text-align:center;
+  margin-top:10%;
+}
+.btn {
+  width: 40px;
+  margin: 5px 4px;
+  padding: 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  background-color: #3f3f3f;
+  color: white;
+}
+.op {
+  background-color: darkorange;
+}
+.clear {
+  background-color: #ab2c45;
+}
+#btn0 {
+  width: 92px;
+}
+form p{
+  font-size:12px;
+  text-align:center;
+}
+#screen {
+  width: 184px;
+  margin: 5px 4px;
+  padding: 5px;
+  border-radius: 5px;
+  font-size: 32px;
+  font-family: "Quantico", sans-serif;
+  background-color: #c3c2ad;
+}
+form {
+  background-color: #dfd8d1;
+  display: inline-block;
+  padding: 10px;
+  border-radius: 10px;
+}
+footer p{
+  color:whitesmoke;
+}
+span{
+  color:#ab2c45;
+}
